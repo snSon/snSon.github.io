@@ -22,7 +22,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "juseokSon"
   job: DongA-U student
-  aboutme: 아니 어바웃 페이지가 어딨냐고
+  aboutme: /aboutme.html
 
 exclude:
   - README.md
