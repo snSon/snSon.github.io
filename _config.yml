@@ -20,7 +20,7 @@ user:
   name: juseokSon
   pic: /assets/img/cat.jpg
   picAlt: "juseokSon"
-  job: a category-centric theme
+  job: DongA-U student
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
