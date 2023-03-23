@@ -1,7 +1,8 @@
 
 title: juseokSon #Your awesome title
 email: sjseok9909@gmail.com
-description: 웹사이트 만들기와 마크다운 연습!
+description: > 
+        웹사이트 만들기와 마크다운 연습!
 
 baseurl: # the subpath of the site
 url: http://snSon.github.io
@@ -21,7 +22,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "juseokSon"
   job: DongA-U student
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: Computer...
 
 exclude:
   - README.md
